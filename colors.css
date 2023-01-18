@@ -1,0 +1,43 @@
+body{
+    margin: 0%;
+}
+
+.background-primary-green{
+    background-color: #7FC6AC;
+}
+
+.primary-green{
+    color: #7FC6AC;
+}
+
+.secondary-green{
+    color: #066A76;
+}
+
+.secondary-pink{
+    color: #EBE3E9;
+}
+
+.secondary-black{
+    color: #161615;
+}
+
+.align-center{
+    text-align: center;
+}
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: #066A76;
+    background-color: transparent;
+    text-decoration: underline;
+}
